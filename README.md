@@ -119,7 +119,7 @@ reports/                # Insights and findings
 
 ---
 
-## 📷 Preview
+##  Preview
 *(To be added after dashboard creation)*
 
 ---
