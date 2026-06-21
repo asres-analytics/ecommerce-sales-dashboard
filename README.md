@@ -14,11 +14,10 @@ The objective is to generate **actionable business insights** that support decis
 ---
 
 ## 📌 Data Source
-- (Dataset: UCI Online Retail Dataset)[https://archive.ics.uci.edu/dataset/352/online+retail]  
+- [Dataset: UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)  
 - Period: December 2010 – December 2011  
-- Records: 541,000+ transactions [1](https://archive.ics.uci.edu/ml/datasets/Online+Retail)  
-
-This dataset contains transactional data from a UK-based online retail company that sells gift items. [1](https://archive.ics.uci.edu/ml/datasets/Online+Retail)  
+- Records: 541,000+ transactions 
+This dataset contains transactional data from a UK-based online retail company that sells gift items. 
 
 ---
 
@@ -26,14 +25,14 @@ This dataset contains transactional data from a UK-based online retail company t
 
 Each row represents a transaction with the following columns:
 
-- **InvoiceNo** → Unique transaction ID (starting with "C" = cancelled) [1](https://archive.ics.uci.edu/ml/datasets/Online+Retail)  
+- **InvoiceNo** → Unique transaction ID (starting with "C" = cancelled) 
 - **StockCode** → Product code  
 - **Description** → Product name  
 - **Quantity** → Number of items purchased  
 - **InvoiceDate** → Transaction date and time  
 - **UnitPrice** → Price per item  
 - **CustomerID** → Unique customer identifier  
-- **Country** → Customer location [1](https://archive.ics.uci.edu/ml/datasets/Online+Retail)  
+- **Country** → Customer location 
 
 ---
 
@@ -102,3 +101,40 @@ Before building any dashboard, the raw dataset was cleaned and prepared:
 ---
 
 ## 📁 Project Structure
+```
+data/
+└── raw/              # Original dataset
+notebooks/              # Data cleaning & analysis
+dashboard/              # Power BI file
+reports/                # Insights and findings
+```
+---
+
+## 🚀 Project Status
+
+✅ Data ingestion complete  
+✅ Data cleaning (in progress)  
+⬜ Exploratory analysis  
+⬜ Dashboard development  
+
+---
+
+## 📷 Preview
+*(To be added after dashboard creation)*
+
+---
+
+## 👨‍💻 Author
+**Asres Analytics**
+
+---
+
+## 💡 About This Project
+
+This project is designed to showcase:
+- Real-world data cleaning skills  
+- Analytical thinking  
+- Business insight generation  
+- Dashboard design for stakeholders  
+
+It is part of a professional portfolio aimed at freelance data analytics opportunities.
