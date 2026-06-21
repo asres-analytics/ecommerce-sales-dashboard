@@ -129,7 +129,7 @@ reports/                # Insights and findings
 
 ---
 
-## 💡 About This Project
+## About This Project
 
 This project is designed to showcase:
 - Real-world data cleaning skills  
